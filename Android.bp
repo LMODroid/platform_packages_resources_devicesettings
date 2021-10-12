@@ -1,5 +1,6 @@
 //
 // Copyright (C) 2020 The LineageOS Project
+// Copyright (C) 2021 LibreMobileOS Foundation
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -15,7 +16,7 @@
 //
 
 android_library {
-    name: "org.lineageos.settings.resources",
+    name: "com.libremobileos.settings.resources",
     defaults: [
         "SettingsLibDefaults",
     ],
