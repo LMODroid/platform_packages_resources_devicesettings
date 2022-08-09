@@ -30,3 +30,11 @@ android_library {
     sdk_version: "current",
 
 }
+
+android_library {
+    name: "org.lineageos.settings.resources",
+
+    static_libs: [
+        "com.libremobileos.settings.resources",
+    ],
+}
